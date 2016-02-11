@@ -10,7 +10,7 @@ Your job is to fix it, following the directions in lab 04.
 **************
 Group 3: Names
 **************
-William Hu
+William Hu 
 Mark Batin - Acknowledged
 
 *******************
